@@ -1,9 +1,5 @@
 h1{
     text-align: center;
-    border-bottom: brown;
-}
-
-a{
-    text-decoration: none;
-    background-color: blueviolet;
+    border-bottom:gray;
+    font-weight: 400;
 }
