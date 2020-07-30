@@ -1,3 +1,6 @@
+body{
+  background-image: linear-gradient(green,transparent);
+}
 h1 {
   text-align: center;
   border-bottom: gray;
